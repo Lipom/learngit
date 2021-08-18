@@ -12,3 +12,4 @@ origin
 
 2021.8.18 三 晴
 branch 
+branch & switch
