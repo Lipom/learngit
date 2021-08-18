@@ -12,4 +12,9 @@ origin
 
 2021.8.18 三 晴
 branch 
+<<<<<<< HEAD
 branch & switch
+=======
+branch and switch!
+>>>>>>> feature1
+branch 和 switch
